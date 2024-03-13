@@ -1,0 +1,3 @@
+Design evalution  criteria
+large system is divided into smaller components
+it has its own name
